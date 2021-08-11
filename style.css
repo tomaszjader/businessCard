@@ -44,3 +44,11 @@ body {
   
   color: #545454;
 }
+.flex__item--content {
+  flex-wrap: wrap;
+  margin-right: 32px;
+  margin-top: 32px;
+}
+.flex__item--coment {
+  margin-top: 24px;
+}
