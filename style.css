@@ -12,6 +12,7 @@ body {
   flex-flow: row wrap ;
   justify-content: center;
   align-items: center;
+
   
 }
 .flex__item {
@@ -19,5 +20,18 @@ body {
   height: 320px;
   
   width: 624px;
-  
+  border-radius: 16px;
+}
+.flex__item--color {
+  color: #ED6D05;
+  font-weight: normal;
+}
+.flex__item--link {
+  color: #E20613 ;
+   font-weight: normal;
+   text-decoration: none;
+   
+}
+.flex__item--image {
+  display: grid;
 }
