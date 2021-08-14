@@ -58,4 +58,5 @@ body {
   line-height: 90px;
 }
 .flex__item--header--first {
+  font-weight: normal;
 }
